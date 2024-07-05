@@ -1,4 +1,4 @@
-package dio;
+package dio.singleton;
 
 /**
  * Singleton Lazy = cria instância dele mesmo

@@ -1,4 +1,4 @@
-package dio;
+package dio.singleton;
 
 /**
  * Singleton Eager = atribui a instancia quando a variavel eh definida
